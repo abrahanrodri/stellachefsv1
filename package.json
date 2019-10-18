@@ -1,0 +1,42 @@
+{
+  "name": "stellachefs",
+  "version": "1.0.0",
+  "description": "A wonderful start to a personal culinary experience",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "react": "^16.10.2",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-dom": "^16.10.2",
+    "react-scripts": "^3.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abrahanrodri/stellachefsv1.git"
+  },
+  "author": "Abrahan Jose Rodriguez of Rizover",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abrahanrodri/stellachefsv1/issues"
+  },
+  "homepage": "https://github.com/abrahanrodri/stellachefsv1#readme",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
